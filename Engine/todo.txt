@@ -1,0 +1,15 @@
+SurfaceHandling
+-Fully refactor surface handler
+-Optimize speed
+-Explore using openGL
+-try piglet
+
+Manager
+-Add basic physics simulation
+-Only simulate objects that need to be simualted
+-create chunk data helper to show what pixels need an update
+-Create edit methods
+
+Generator 
+-create basic functionality 
+
